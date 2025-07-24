@@ -29,7 +29,7 @@ CREATE TABLE NETFLIX
    type          VARCHAR(10),
    title         VARCHAR(150),
    director      VARCHAR(208),
-   casts          VARCHAR(1000),
+   casts         VARCHAR(1000),
    country       VARCHAR(150),
    date_added    VARCHAR(50),
    release_year  INT,
